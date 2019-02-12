@@ -1,4 +1,4 @@
-**Tavsiye Kitaplar ** (12.02.2019)   
+**Tavsiye Kitaplar** (12.02.2019)   
 * Fundamentals of Electric Circuits - Elektrik Devrelerinin Temelleri, Alexander & Sadiku
 * Electric Circuits - Elektrik Devreleri, Nilsson & Riedel
 * Elektrik Devreleri, Turgut İkiz, Papatya Bilişim
