@@ -1,3 +1,9 @@
+**Laboratuvar işleyişi** (22.02.2019)   
+Devre Analizi 2 dersi, Laboratuvar işleyişi ve puanlama ile ilgili doküman eklenmiştir:
+
+https://github.com/asenturk/eem202/blob/master/laboratuvar/da2_lab_aciklama.pdf
+
+---   
 **Tavsiye Kitaplar** (12.02.2019)   
 * Fundamentals of Electric Circuits - Elektrik Devrelerinin Temelleri, Alexander & Sadiku
 * Electric Circuits - Elektrik Devreleri, Nilsson & Riedel
