@@ -15,7 +15,7 @@ https://github.com/asenturk/eem202/blob/master/laboratuvar/da2_lab_aciklama.pdf
 Ders devam mecburiyeti: %70
 Lab devam mecburiyeti %80 
 
-Arasınav:%25, Lab:%25, Final:%50 + Ödevler
+Arasınav:%30, Lab:%20, Final:%50 + Ödevler
 
 ---   
 **İletişim Bilgileri** (12.02.2019)   
