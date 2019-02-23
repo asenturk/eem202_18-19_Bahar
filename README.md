@@ -1,5 +1,5 @@
 **Laboratuvar Başlama** (23.02.2019)   
-Henüz konularda yeterli ilerleyemediğimiz için B Şubesi laboratuvaları 25.02.2019 tarihinde yapılmayacaktır.   
+Henüz konularda yeteri kadar ilerleyemediğimiz için B Şubesi laboratuvaları 25.02.2019 - 01.03.2019 haftasında yapılmayacaktır.
 
 ---   
 
