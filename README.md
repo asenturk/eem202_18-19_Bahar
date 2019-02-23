@@ -1,3 +1,9 @@
+**Laboratuvar Başlama** (23.02.2019)   
+Henüz konularda yeterli ilerleyemediğimiz için B Şubesi laboratuvaları 25.02.2019 tarihinde yapılmayacaktır.   
+
+---   
+
+
 **Laboratuvar işleyişi** (22.02.2019)   
 Devre Analizi 2 dersi, Laboratuvar işleyişi ve puanlama ile ilgili doküman eklenmiştir:
 
