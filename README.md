@@ -18,6 +18,26 @@ https://goo.gl/forms/Nncs3Ltu0Ep8t6Y63
 
 ---   
 
+**B Şubesi Laboratuvar Grupları** (01.03.2019)
+
+Laboratuvar grubunuzu aşağıda bağlantısı verilen dokümandan öğrenebilirsiniz:  
+
+https://github.com/asenturk/eem202/blob/master/laboratuvar/lab_gruplari.txt
+
+*Lab saatleri*  
+
+1. öğretim 1. grup: Cuma 8:30-10:10  
+1. öğretim 2. grup: Cuma 10:20-12:00  
+
+2. öğretim 1. grup: Salı 19:05-20:45  
+2. öğretim 2. grup: Cuma 14:50-16:30 
+
+*Lab dokümanları*  
+https://github.com/asenturk/eem202/tree/master/laboratuvar 
+
+
+---   
+
 
 
 **Laboratuvar Başlama** (23.02.2019)   
