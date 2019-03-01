@@ -32,16 +32,13 @@ https://github.com/asenturk/eem202/blob/master/laboratuvar/lab_gruplari.txt
 2. öğretim 1. grup: Salı 19:05-20:45  
 2. öğretim 2. grup: Cuma 14:50-16:30 
 
-*Lab dokümanları*  
+---
+
+**Lab Dokümanları** (01.03.2019)   
+
 https://github.com/asenturk/eem202/tree/master/laboratuvar 
 
 
----   
-
-
-
-**Laboratuvar Başlama** (23.02.2019)   
-Henüz konularda yeteri kadar ilerleyemediğimiz için B Şubesi laboratuvaları 25.02.2019 - 01.03.2019 haftasında yapılmayacaktır.
 
 ---   
 
