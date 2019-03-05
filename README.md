@@ -16,6 +16,8 @@ Dosya üzerine sağ tıklayarak dosya uzantısına bakabilirsiniz.
 Ödevi aşağıdaki adresten gönderebilirsiniz:  
 https://goo.gl/forms/Nncs3Ltu0Ep8t6Y63
 
+2. soru b şıkkı güncellenmiştir.
+
 ---   
 
 **B Şubesi Laboratuvar Grupları** (01.03.2019)
