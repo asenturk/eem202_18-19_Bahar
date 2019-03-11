@@ -1,3 +1,25 @@
+**Ödev 2 (A ve B Şubesi için)** (11.03.2019)   
+Ödev 2'ye aşağıda verilen bağlantıdan ulaşabilirsiniz:  
+https://github.com/asenturk/eem202/tree/master/odevler
+
+Ödevi göndermek için son tarih 16 Mart 2019 Cumartesidir. Bu tarihten sonra gönderilen ödevler kabul edilmeyecektir.
+
+Öncelikle ödev formatını dikkatli bir şekilde okumanız ve Örnek Ödev, Örnek Ödev çözümünü incelemeniz gerekmektedir.  
+https://github.com/asenturk/eem202/tree/master/odevler/odev_formati
+
+Ödev formatına uygun gönderilmeyen ödevler degerlendirilmeyecektir.
+
+Ödevinizi Microsoft Office Word programını kullanarak hazırlamanız gerekmektedir. Dosyanın uzantısı docx olmalıdır.  
+Dosya üzerine sağ tıklayarak dosya uzantısına bakabilirsiniz.
+
+Ödevi aşağıdaki adresten gönderebilirsiniz:  
+https://goo.gl/forms/Nncs3Ltu0Ep8t6Y63
+
+---   
+
+
+
+
 **Ödev 1 (A ve B Şubesi için)** (01.03.2019)   
 
 Ödev 1'e aşağıda verilen bağlantıdan ulaşabilirsiniz:  
