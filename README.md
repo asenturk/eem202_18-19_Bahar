@@ -50,11 +50,12 @@ https://github.com/asenturk/eem202/blob/master/laboratuvar/lab_gruplari.txt
 
 *Lab saatleri*  
 
-1. öğretim 1. grup: Cuma 8:30-10:10  
-1. öğretim 2. grup: Cuma 10:20-12:00  
+\1. öğretim 1. grup: Cuma 8:30-10:10     
+\1. öğretim 2. grup: Cuma 10:20-12:00    
 
-2. öğretim 1. grup: Salı 19:05-20:45  
-2. öğretim 2. grup: Cuma 14:50-16:30 
+
+\2. öğretim 1. grup: Salı 19:05-20:45  
+\2. öğretim 2. grup: Cuma 14:50-16:30 
 
 ---
 
