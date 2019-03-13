@@ -1,3 +1,19 @@
+**Ödev 3 ve Ödev 4 (A ve B Şubesi için)** (14.03.2019)   
+Ödev 3 ve 4'e aşağıda verilen bağlantıdan ulaşabilirsiniz:  
+https://github.com/asenturk/eem202/tree/master/odevler
+
+Ödev 3 ve Ödev 4'ü gönermek için son tarih 21 Mart 2019 Perşembedir.
+
+Ödev formatına uygun gönderilmeyen ödevler degerlendirilmeyecektir.
+
+Ödevinizi Microsoft Office Word programını kullanarak hazırlamanız gerekmektedir. Dosyanın uzantısı docx olmalıdır.  
+Dosya üzerine sağ tıklayarak dosya uzantısına bakabilirsiniz.
+
+Ödevi aşağıdaki adresten gönderebilirsiniz:  
+https://goo.gl/forms/Nncs3Ltu0Ep8t6Y63
+
+---   
+
 **Ödev 2 (A ve B Şubesi için)** (11.03.2019)
 
 **Not**: 5. soru düzeltilmiştir.
