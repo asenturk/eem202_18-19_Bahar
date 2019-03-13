@@ -1,4 +1,7 @@
-**Ödev 2 (A ve B Şubesi için)** (11.03.2019)   
+**Ödev 2 (A ve B Şubesi için)** (11.03.2019)
+
+**Not**: 5. soru düzeltilmiştir.
+   
 Ödev 2'ye aşağıda verilen bağlantıdan ulaşabilirsiniz:  
 https://github.com/asenturk/eem202/tree/master/odevler
 
