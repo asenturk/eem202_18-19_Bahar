@@ -1,3 +1,17 @@
+**Devre Lab Yükleme Formları** (17.03.2019)   
+Hatice Akman Hocamızın grubu: https://goo.gl/forms/jhMgU2L1vuHMyfZd2
+Samet Yalçın Hocamızın grubu: https://goo.gl/forms/FS66YI93HLahN2ap1
+
+1.deney raporlarınızı bu adreslerdeki formara yükleyiniz.   
+Deney raporlarında en azından numaralarınız ve deney numarası olsun.   
+Daha önce yükleyenlerin herhangi bir şey yapmasına gerek yok.  
+
+
+
+---   
+
+
+
 **Ödev 3 ve Ödev 4 (A ve B Şubesi için)** (14.03.2019)   
 Ödev 3 ve 4'e aşağıda verilen bağlantıdan ulaşabilirsiniz:  
 https://github.com/asenturk/eem202/tree/master/odevler
