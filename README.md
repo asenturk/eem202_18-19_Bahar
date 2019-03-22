@@ -1,3 +1,13 @@
+**Arasınav** (22.03.2019)   
+- Arasınavda 4 soru çıkacak ve süre 75 dakika olacaktır.
+- Devre analiz yöntemleri ve özellikle Thevenin eşdeğer devresini konusunu çalışmanızı öneriyorum.
+- Ortalama güç konusundan 2 soru çıkacaktır. 
+- Karşılıklı endüktanstan 1 soru çıkacaktır.
+- Sınavda eksta kağıt verilmeyeceği için hesap makinelerinizi verimli kullanmanız ve yazılarınızı düzenli ve uygun büyüklükte yazmanız gerekmektedir.
+- Birimleri yazmayı unutmayın.
+
+---   
+
 **Devre Lab Yükleme Formları** (17.03.2019)   
 Hatice Akman Hocamızın grubu: https://goo.gl/forms/jhMgU2L1vuHMyfZd2
 Samet Yalçın Hocamızın grubu: https://goo.gl/forms/FS66YI93HLahN2ap1
