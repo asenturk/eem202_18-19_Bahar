@@ -1,3 +1,9 @@
+**Rapor Şablonu** (30.03.2019)   
+Rapor şablonundaki çerçevelerden dolayı resim eklendiğinde biçimin bozulduğu şikayetlerinden dolayı rapor şablonu güncellenmiştir.
+[Laboratuvar](./laboratuvar) klasöründen indirebilirsiniz.
+
+
+---   
 **Arasınav** (22.03.2019)   
 - Arasınavda 4 soru çıkacak ve süre 75 dakika olacaktır.
 - Devre analiz yöntemleri ve özellikle Thevenin eşdeğer devresini konusunu çalışmanızı öneriyorum.
