@@ -1,5 +1,10 @@
+**Arasınav Notlar (A ve B Şubesi)** (01.04.2019)   
+Arasınav notlarınıza [Sınav Notlar](./sinav_notlar/) klasöründen ulaşabilirsiniz.   
+Arasınavları Dr. Tuna GÖKSU okumuştur. 
+
+---   
 **Rapor Şablonu** (30.03.2019)   
-Rapor şablonundaki çerçevelerden dolayı resim eklendiğinde biçimin bozulduğu şikayetlerinden dolayı rapor şablonu güncellenmiştir.
+Rapor şablonundaki çerçevelerden dolayı resim eklendiğinde biçimin bozulduğu, dolayısıyla raporu yazarken zorlandığınızı söyleyenler oldu. Bundan dolayı rapor şablonu güncellenmiştir.
 [Laboratuvar](./laboratuvar) klasöründen indirebilirsiniz.
 
 
