@@ -1,7 +1,6 @@
 **Ödev 5 (A ve B Şubesi için)** (18.04.2019)   
 
-Ödev 5'e aşağıda verilen bağlantıdan ulaşabilirsiniz:
-https://github.com/asenturk/eem202/tree/master/odevler
+Ödev 5'e [Ödevler](./odevler/.) klasöründen ulaşabilirsiniz:
 
 Ödev 5'i gönermek için son tarih 1 Mayıs 2019 Çarşambadır.
 
