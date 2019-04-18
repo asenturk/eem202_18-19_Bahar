@@ -1,8 +1,8 @@
-**Ödev 5 (A ve B Şubesi için)** (18.04.2019)   
+**Ödev 5 ve Ödev 6 (A ve B Şubesi için)** (18.04.2019)   
 
-Ödev 5'e [Ödevler](./odevler/.) klasöründen ulaşabilirsiniz:
+Ödev 5 ve 6'ya [Ödevler](./odevler/.) klasöründen ulaşabilirsiniz:
 
-Ödev 5'i gönermek için son tarih 1 Mayıs 2019 Çarşambadır.
+Ödevleri göndermek için son tarih 1 Mayıs 2019 Çarşambadır.
 
 Ödev formatına uygun gönderilmeyen ödevler degerlendirilmeyecektir.
 
@@ -63,7 +63,7 @@ Daha önce yükleyenlerin herhangi bir şey yapmasına gerek yok.
 Ödev 3 ve 4'e aşağıda verilen bağlantıdan ulaşabilirsiniz:  
 https://github.com/asenturk/eem202/tree/master/odevler
 
-Ödev 3 ve Ödev 4'ü gönermek için son tarih 21 Mart 2019 Perşembedir.
+Ödev 3 ve Ödev 4'ü göndermek için son tarih 21 Mart 2019 Perşembedir.
 
 Ödev formatına uygun gönderilmeyen ödevler degerlendirilmeyecektir.
 
