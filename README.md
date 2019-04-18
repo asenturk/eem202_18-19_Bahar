@@ -1,3 +1,22 @@
+**Ödev 5 (A ve B Şubesi için)** (18.04.2019)   
+
+Ödev 5'e aşağıda verilen bağlantıdan ulaşabilirsiniz:
+https://github.com/asenturk/eem202/tree/master/odevler
+
+Ödev 5'i gönermek için son tarih 1 Mayıs 2019 Çarşambadır.
+
+Ödev formatına uygun gönderilmeyen ödevler degerlendirilmeyecektir.
+
+Ödevinizi Microsoft Office Word programını kullanarak hazırlamanız gerekmektedir. Dosyanın uzantısı docx olmalıdır.
+Dosya adının belirtildiği gibi yapılması gerekmektedir. Ödevdeki her soru 0.25 puan olarak etki edecektir.
+
+Ödevi aşağıdaki adresten gönderebilirsiniz:
+https://goo.gl/forms/Nncs3Ltu0Ep8t6Y63
+
+
+---   
+
+
 **Deney 3 Deney 4** (18.04.2019)   
 Deney föylerini [Laboratuvar](./laboratuvar/) klasöründen ulaşabilirsiniz.
 
