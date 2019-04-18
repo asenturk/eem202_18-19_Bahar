@@ -1,3 +1,11 @@
+**Deney 3 Deney 4** (18.04.2019)   
+Deney föylerini [Laboratuvar](./laboratuvar/) klasöründen ulaşabilirsiniz.
+
+
+---   
+
+
+
 **Arasınav Notlar (A ve B Şubesi)** (01.04.2019)   
 Arasınav notlarınıza [Sınav Notlar](./sinav_notlar/) klasöründen ulaşabilirsiniz.   
 Arasınavları Dr. Tuna GÖKSU okumuştur. 
