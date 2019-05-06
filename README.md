@@ -1,3 +1,9 @@
+Deney 5 (06.05.2019)
+Deney föylerini [Laboratuvar](./laboratuvar/) klasöründen ulaşabilirsiniz.
+
+---
+
+
 **Ödev 5 ve Ödev 6 (A ve B Şubesi için)** (18.04.2019)   
 
 Ödev 5 ve 6'ya [Ödevler](./odevler/.) klasöründen ulaşabilirsiniz:
