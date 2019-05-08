@@ -1,3 +1,19 @@
+**Ödev 7 (A ve B Şubesi için)** (08.05.2019)   
+
+Ödev 7'ye [Ödevler](./odevler/.) klasöründen ulaşabilirsiniz:
+
+Ödevleri göndermek için son tarih 19 Mayıs 2019 Pazardır.
+
+Ödev formatına uygun gönderilmeyen ödevler degerlendirilmeyecektir.
+
+Ödevinizi Microsoft Office Word programını kullanarak hazırlamanız gerekmektedir. Dosyanın uzantısı docx olmalıdır.
+Dosya adının belirtildiği gibi yapılması gerekmektedir. Ödevdeki her soru 0.25 puan olarak etki edecektir.
+
+Ödevi aşağıdaki adresten gönderebilirsiniz:
+https://goo.gl/forms/Nncs3Ltu0Ep8t6Y63
+
+---
+
 Deney 5 (06.05.2019)
 Deney föylerini [Laboratuvar](./laboratuvar/) klasöründen ulaşabilirsiniz.
 
