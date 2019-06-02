@@ -1,3 +1,17 @@
+**Final Sınavı** (02.06.2019)      
+- Final sınavında 4 soru bulunmaktadır. Süre 80 dakikadır.   
+- Sınav kağıdı haricinde kağıt verilmeyecektir. Bundan dolayı boşlukları uygun bir şekilde kullanmanız gerekmektedir.   
+- Sınav kağıdının ön ve arka yüzlerindeki sorulardan 1 tanesi göreceli olarak uzun diğeri kısadır. Dolayısıyla uzun soru verilen boşluğa sığmazsa kısa sorunun altına çizgi çekerek devam edebilirsiniz.   
+- 1 ve 3. sorular kısa 2 ve 4. sorular uzundur.
+- Sınavda ki 4 sorunun konu dağılımı şu şekildedir:   
+Aktif filtre, pasif filtre, güç, s alanı.
+- Sınav esnasında problem çıkmaması için her öğrencinin hangi sınıfta sınava girebileceğinin farkında olması gerekmektedir. A şubesi veya B şubesi ve 1. öğretim veya 2. öğretim listesinde olduğunuzu OBS'den kontrol ediniz. 
+
+
+
+
+---
+
 **Ödev 7 (A ve B Şubesi için)** (08.05.2019)   
 
 Ödev 7'ye [Ödevler](./odevler/.) klasöründen ulaşabilirsiniz:
