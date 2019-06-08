@@ -1,3 +1,22 @@
+**Final Sınavı Sınıf Listeleri** (09.06.2019)      
+
+Final sınavının Pazartesi ilk sınav olması ve öğrenci sayısının fazla olması dolayısıyla sınavın problemsiz bir şekilde yapılması için sınava gireceğiniz sınıfla önceden belirlenmiştir.
+
+Bu listeler sınavdan önce kapılara da asılacak ve sınav esnasında yoklama listesi olarak sınıfta verilecektir. Dolayısıyla yoklamaya imza atabilmek için doğru sınıfta sınava girmemeniz gerekmektedir. 
+
+A Şubesi:   
+[1. Öğretim 1002](./final_siniflar/01_A_Subesi_1o_1002.pdf)   
+[1. Öğretim 101](./final_siniflar/02_A_Subesi_1o_101.pdf)   
+[2. Öğretim 1004](./final_siniflar/03_A_Subesi_2o_1004.pdf)   
+[2. Öğretim BLAB](./final_siniflar/04_A_Subesi_2o_BLAB.pdf)   
+
+B Şubesi:   
+[1. Öğretim 1003](./final_siniflar/05_B_Subesi_1o_1003.pdf)   
+[2. Öğretim 2002](./final_siniflar/06_B_Subesi_2o_2002.pdf)   
+[2. Öğretim 2003](./final_siniflar/07_B_Subesi_2o_2003.pdf)   
+
+---
+
 **Final Sınavı** (02.06.2019)      
 - Final sınavında 4 soru bulunmaktadır. Süre 80 dakikadır.   
 - Sınav kağıdı haricinde kağıt verilmeyecektir. Bundan dolayı boşlukları uygun bir şekilde kullanmanız gerekmektedir.   
