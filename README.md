@@ -1,5 +1,7 @@
 **Final Sınavı Sınıf Listeleri** (09.06.2019)      
 
+(listeler kaldırılmıştır.)
+
 Final sınavının Pazartesi ilk sınav olması ve öğrenci sayısının fazla olması dolayısıyla sınavın problemsiz bir şekilde yapılması için sınava gireceğiniz sınıfla önceden belirlenmiştir.
 
 Bu listeler sınavdan önce kapılara da asılacak ve sınav esnasında yoklama listesi olarak sınıfta verilecektir. Dolayısıyla yoklamaya imza atabilmek için doğru sınıfta sınava girmemeniz gerekmektedir. 
