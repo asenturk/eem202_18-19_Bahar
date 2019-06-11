@@ -1,3 +1,15 @@
+**Final Sınavı Notlar** (11.06.2019)   
+
+Final sınavı notlarınıza [Sınav Notlar](./sinav_notlar/) klasöründen ulaşabilirsiniz.   
+Notlara ödev notları eklenmemiştir.
+Sınav kağıtlarınızı 18.16.2019 Salı son gün olmak üzere kontrol edebilirsiniz.   
+Sınav kağıdını kontrol etmek için herhangi bir neden söylemenize gerek yok.   
+Sınav kağıdını kontrol için geldiğinizde    
+**dersin adı - şube - öğretim - yoklama sıra numarası**   
+şeklinde söylemeniz gerekmektedir.   
+Örnek: Devre 2 dersi, B Şubesi 1. öğretim 16 numaralı kağıt.
+
+
 **Final Sınavı Sınıf Listeleri** (09.06.2019)      
 
 (listeler kaldırılmıştır.)
