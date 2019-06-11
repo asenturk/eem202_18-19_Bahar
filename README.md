@@ -9,6 +9,8 @@ Sınav kağıdını kontrol için geldiğinizde
 şeklinde söylemeniz gerekmektedir.   
 Örnek: Devre 2 dersi, B Şubesi 1. öğretim 16 numaralı kağıt.
 
+Kağıt numaraları notları gördüğünüz listeden okul numaranızın solunda yazan sayıdır.
+
 
 **Final Sınavı Sınıf Listeleri** (09.06.2019)      
 
