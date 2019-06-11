@@ -11,6 +11,7 @@ Sınav kağıdını kontrol için geldiğinizde
 
 Kağıt numaraları notları gördüğünüz listeden okul numaranızın solunda yazan sayıdır.
 
+---
 
 **Final Sınavı Sınıf Listeleri** (09.06.2019)      
 
