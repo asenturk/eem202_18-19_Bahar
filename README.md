@@ -1,3 +1,13 @@
+**Bütünleme Sınavı** (02.07.2019)   
+
+Bütünleme sınavında final sınavında olduğu gibi güç, aktif filtre, pasif filtre ve s alani analizi konularında sorular çıkacaktır.   
+Sınav süresi ve (varsa) diğer bilgilendirmeler daha sonra eklenecektir.
+
+
+---
+
+
+
 **Final Sınavı Notlar** (11.06.2019)   
 
 Final sınavı notlarınıza [Sınav Notlar](./sinav_notlar/) klasöründen ulaşabilirsiniz.   
