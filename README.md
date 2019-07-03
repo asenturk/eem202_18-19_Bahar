@@ -1,7 +1,9 @@
 **Bütünleme Sınavı** (02.07.2019)   
 
 Bütünleme sınavında final sınavında olduğu gibi güç, aktif filtre, pasif filtre ve s alani analizi konularında sorular çıkacaktır.   
-Sınav süresi ve (varsa) diğer bilgilendirmeler daha sonra eklenecektir.
+Sınav süresi 70 dakikadır.
+
+B Şubesi için ınava gireceğiniz sınıflar belirlenmiştir. [Sınıf Oturum Listesi](./sinav_notlar/b_subesi_sinav_ogrenci_listesi.txt) dokümanından öğrenebilirsiniz. Bu listeler sınavdan önce kapılara asılacaktır. Listeler aynı zamanda yoklama listesi olarak kullanılacaktır.
 
 
 ---
