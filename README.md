@@ -2,7 +2,7 @@
 
 Bütünleme sınavı notlarınıza [Sınav Notlar](./sinav_notlar/) klasöründen ulaşabilirsiniz.   
 
-Sınav kağıtlarınızı 05.07.2019 Salı son gün olmak üzere kontrol edebilirsiniz.   
+Sınav kağıtlarınızı 05.07.2019 Cuma son gün olmak üzere kontrol edebilirsiniz.   
 Sınav kağıdını kontrol etmek için herhangi bir neden söylemenize gerek yok.   
 Sınav kağıdını kontrol için geldiğinizde    
 **dersin adı - öğretim - yoklama sıra numarası**   
