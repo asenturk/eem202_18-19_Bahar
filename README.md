@@ -1,3 +1,18 @@
+**Bütünleme Sınavı Notlar (B Şubesi)** (04.07.2019)   
+
+Bütünleme sınavı notlarınıza [Sınav Notlar](./sinav_notlar/) klasöründen ulaşabilirsiniz.   
+
+Sınav kağıtlarınızı 05.07.2019 Salı son gün olmak üzere kontrol edebilirsiniz.   
+Sınav kağıdını kontrol etmek için herhangi bir neden söylemenize gerek yok.   
+Sınav kağıdını kontrol için geldiğinizde    
+**dersin adı - öğretim - yoklama sıra numarası**   
+şeklinde söylemeniz gerekmektedir.   
+Örnek: Devre 2 dersi, 1. öğretim 16 numaralı kağıt.
+
+Kağıt numaraları notları gördüğünüz listeden okul numaranızın solunda yazan sayıdır.
+
+---
+
 **Bütünleme Sınavı** (02.07.2019)   
 
 Bütünleme sınavında final sınavında olduğu gibi güç, aktif filtre, pasif filtre ve s alani analizi konularında sorular çıkacaktır.   
